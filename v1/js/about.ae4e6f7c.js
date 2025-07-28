@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbtc_puzzle_resolve"]=self["webpackChunkbtc_puzzle_resolve"]||[]).push([[594],{1090:function(e,u,n){n.r(u),n.d(u,{default:function(){return o}});var t=n(641);const r={class:"about"};function s(e,u){return(0,t.uX)(),(0,t.CE)("div",r,u[0]||(u[0]=[(0,t.Lk)("h1",null,"This is an about page",-1)]))}var a=n(6262);const c={},l=(0,a.A)(c,[["render",s]]);var o=l}}]);
+//# sourceMappingURL=about.ae4e6f7c.js.map
